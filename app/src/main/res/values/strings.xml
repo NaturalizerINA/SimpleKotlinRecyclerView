@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string-array name="deskripsi">
+        <item>Plain T-shirt material 100% Cotton Combed 30s Reactive, direct material feels cool when worn and not hot thinner than 20s / 24s. Suitable for use in tropical climates such as Indonesia</item>
+        <item>This shirt is made of Fleece cotton, this Fleece cotton is made from a mixture of fibers of approximately 80% cotton and wool fiber of less than 20%. The characteristic feature of the fleece is that it has a thread color that is more luminous and lighter than other materials commonly used to make cotton fleece softer and more comfortable to wear</item>
+        <item>This shirt is made of Fleece cotton, this Fleece cotton is made from a mixture of fibers of approximately 80% cotton and wool fiber of less than 20%. The characteristic feature of the fleece is that it has a thread color that is more luminous and lighter than other materials commonly used to make cotton fleece softer and more comfortable to wear</item>
+        <item>This shirt is made of Fleece cotton, this Fleece cotton is made from a mixture of fibers of approximately 80% cotton and wool fiber of less than 20%. The characteristic feature of the fleece is that it has a thread color that is more luminous and lighter than other materials commonly used to make cotton fleece softer and more comfortable to wear</item>
+        <item>This shirt is made of Fleece cotton, this Fleece cotton is made from a mixture of fibers of approximately 80% cotton and wool fiber of less than 20%. The characteristic feature of the fleece is that it has a thread color that is more luminous and lighter than other materials commonly used to make cotton fleece softer and more comfortable to wear</item>
+        <item>This shirt is made of Fleece cotton, this Fleece cotton is made from a mixture of fibers of approximately 80% cotton and wool fiber of less than 20%. The characteristic feature of the fleece is that it has a thread color that is more luminous and lighter than other materials commonly used to make cotton fleece softer and more comfortable to wear</item>
+    </string-array>
+
+    <integer-array name="gambar">
+        <item>@drawable/shirt</item>
+        <item>@drawable/baseball_jacket</item>
+        <item>@drawable/shirt</item>
+        <item>@drawable/baseball_jacket</item>
+        <item>@drawable/shirt</item>
+        <item>@drawable/shirt</item>
+    </integer-array>
+</resources>
